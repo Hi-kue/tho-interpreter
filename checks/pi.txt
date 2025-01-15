@@ -1,0 +1,3 @@
+ADD 22
+DIV 7
+TELL

@@ -1,0 +1,9 @@
+ASK A
+ASK B
+
+ADD A
+ADD B
+
+DIV 2.0
+
+TELL
